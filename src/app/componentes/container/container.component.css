@@ -1,7 +1,6 @@
 .container {
-    height: 620px;
-    width: 385px;
+    height: 500px;
+    width: 350px;
     background-color: #1F1F1F;
     border-radius: 10px;
-    margin: 200px 750px;
 }
