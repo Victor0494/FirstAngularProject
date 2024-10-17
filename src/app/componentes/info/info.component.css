@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.container h4 {
+    color: #E7E7E7;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    font-weight: 600;
+}
+
+.container p {
+    color: #caeb53;
+    font-size: xx-small;
+    margin-top: 1px;
+}

@@ -1,13 +1,26 @@
 .container_link {
     display: flex;
     justify-content: center;
-    
+    gap: 50px;
 }
 
-.btn {
-    height: 40px;
-    width: 90%;
+.links {
+    height: 10px;
+    width: 80%;
     border-radius: 8px;
     border: none;
     background-color: #333333;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-size: x-small;
+    font-weight: 600;
+    padding: 15px 10px;
+    caret-color: #333333;
+}
+
+.links:hover {
+    background-color: #C4F82A;
+    color: #36451A;
 }
